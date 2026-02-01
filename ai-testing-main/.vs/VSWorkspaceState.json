@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\(auth)",
+    "\\app\\(auth)\\sign-up",
+    "\\app\\(root)",
+    "\\app\\(root)\\allinterviews",
+    "\\app\\api",
+    "\\app\\api\\vapi",
+    "\\app\\api\\vapi\\generate",
+    "\\components"
+  ],
+  "SelectedNode": "\\components\\GoogleGeminiEffectDemo.tsx",
+  "PreviewInSolutionExplorer": false
+}
