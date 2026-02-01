@@ -7,10 +7,15 @@ Simulates recruiter-like interviews, delivers real-time insights, and empowers j
 
 🌐 Live Demo
 You can try the app live here: [https://ai-testing-sigma.vercel.app/]
+
 🔍 Overview
+
 HireQuestAI is a full-stack, AI-driven platform built to replicate real-world interviews. It helps users prepare for technical and behavioral rounds with:
+
 ⚡ Ultra-low latency voice conversations
+
 🎯 Context-aware question generation
+
 📊 Real-time feedback and improvement suggestions
 🧠 Personalized analytics over time
 Whether you're preparing for a software engineering job or practicing soft skills, HireQuestAI brings mock interviews to the next level.
